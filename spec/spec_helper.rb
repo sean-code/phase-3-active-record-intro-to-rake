@@ -20,3 +20,5 @@ def recreate_table
     SQL
     DB[:conn].execute(sql) 
 end
+
+
